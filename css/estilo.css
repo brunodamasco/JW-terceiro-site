@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+#site {
+	height: auto;
+	width: 800px;
+}
+#barra_topo {
+	background: blue;
+	height: auto;
+	width: 800px;
+	margin: 5px;
+	padding: 10px;
+	float: right;
+	text-align: right;
+
+}
