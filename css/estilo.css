@@ -5,14 +5,12 @@
 #site {
 	height: auto;
 	width: 800px;
+	margin: 0 auto;
 }
 #barra_topo {
-	background: blue;
-	height: auto;
-	width: 800px;
+	background: #002e68;
+	
 	margin: 5px;
 	padding: 10px;
-	float: right;
 	text-align: right;
-
 }
